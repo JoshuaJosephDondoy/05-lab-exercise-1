@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void onClick(View view){
-        Toast toast = Toast.makeText(this, "The Record is submitted", Toast.LENGTH_LONG);
+        Toast toast = Toast.makeText(this, "The Records has submitted", Toast.LENGTH_LONG);
         toast.show();
     }
 }
