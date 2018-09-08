@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="flavor_group" type="id" />
+    <item name="ordinary_button" type="id" />
+    <item name="image_button" type="id" />
+    <item name="button_with_icon_at_left" type="id" />
+    <item name="button_with_icon_at_right" type="id" />
+    <item name="buttons_demo" type="id" />
+    <item name="text_field_demo" type="id" />
+    <item name="radio_button_demo" type="id" />
+    <item name="spinner_demo" type="id" />
+    <item name="checkbox_demo" type="id" />
+</resources>
